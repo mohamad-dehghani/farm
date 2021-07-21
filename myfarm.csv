@@ -1,0 +1,362 @@
+Row;DateTime;Farm;Device;RobotHWversion;RobotSoftwareVersion;Major;Minor;Severity
+22;2021-06-27 05:20;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;15;417;4
+23;2021-06-27 05:21;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;15;425;4
+63;2021-06-27 08:18;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;2;403;5
+68;2021-06-27 08:27;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;2;403;5
+79;2021-06-27 09:11;S02.Sweden.VMS test.Ärnebäck.VC;VMS 1;V2010;18.5_rc1;2;207;4
+89;2021-06-27 09:39;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;2;402;5
+192;2021-06-27 17:02;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;2;402;5
+226;2021-06-27 21:37;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;15;417;4
+227;2021-06-27 21:39;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;15;425;4
+246;2021-06-28 00:45;S02.Sweden.VMS test.Ärnebäck.VC;VMS 1;V2010;18.5_rc1;2;207;4
+259;2021-06-28 04:25;S02.Sweden.VMS test.Ärnebäck.VC;VMS 1;V2010;18.5_rc1;5;202;5
+263;2021-06-28 05:20;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;15;417;4
+264;2021-06-28 05:21;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;15;425;4
+320;2021-06-28 08:22;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;2;412;4
+321;2021-06-28 08:22;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;2;412;4
+322;2021-06-28 08:22;S02.Sweden.VMS test.Ärnebäck.VC;MS2;V2018_2;9.4_2021may28;17;1805;4
+8;2021-06-27 01:38;S02.Sweden.VMS test.Anderses.VC;MS1;V2018_2;8.2.11_2021jun11-1;4;105;4
+9;2021-06-27 01:41;S02.Sweden.VMS test.Anderses.VC;MS1;V2018_2;8.2.11_2021jun11-1;4;1;4
+33;2021-06-27 06:08;S02.Sweden.VMS test.Anderses.VC;Sorteringsgrind;;;4;126;5
+65;2021-06-27 08:24;S02.Sweden.VMS test.Anderses.VC;MS1;V2018_2;8.2.11_2021jun11-1;5;123;4
+118;2021-06-27 11:22;S02.Sweden.VMS test.Anderses.VC;MS1;V2018_2;8.2.11_2021jun11-1;4;105;4
+120;2021-06-27 11:25;S02.Sweden.VMS test.Anderses.VC;MS1;V2018_2;8.2.11_2021jun11-1;4;1;4
+151;2021-06-27 14:11;S02.Sweden.VMS test.Anderses.VC;MS2;V2018_2;8.2.11_2021jun11-1;4;105;4
+153;2021-06-27 14:12;S02.Sweden.VMS test.Anderses.VC;MS2;V2018_2;8.2.11_2021jun11-1;4;1;4
+162;2021-06-27 14:49;S02.Sweden.VMS test.Anderses.VC;MS1;V2018_2;8.2.11_2021jun11-1;2;402;5
+202;2021-06-27 18:06;S02.Sweden.VMS test.Anderses.VC;MS2;V2018_2;8.2.11_2021jun11-1;15;419;5
+240;2021-06-27 23:35;S02.Sweden.VMS test.Anderses.VC;MS2;V2018_2;8.2.11_2021jun11-1;5;124;4
+81;2021-06-27 09:17;S02.Sweden.VMS test.Andersta.AMSSC;MS2;V2018_2;8.2.11_2021jun11-1;1;15;4
+83;2021-06-27 09:24;S02.Sweden.VMS test.Andersta.AMSSC;MS2;V2018_2;8.2.11_2021jun11-1;1;15;4
+123;2021-06-27 11:31;S02.Sweden.VMS test.Andersta.AMSSC;MS2;V2018_2;8.2.11_2021jun11-1;1;15;4
+169;2021-06-27 15:15;S02.Sweden.VMS test.Andersta.AMSSC;MS2;V2018_2;8.2.11_2021jun11-1;1;15;4
+195;2021-06-27 17:22;S02.Sweden.VMS test.Andersta.AMSSC;MS3;V2010;18.5_rc1;2;207;4
+353;2021-06-28 10:43;S02.Sweden.VMS test.Andersta.AMSSC;MS2;V2018_2;8.2.11_2021jun11-1;5;300;5
+355;2021-06-28 10:50;S02.Sweden.VMS test.Andersta.AMSSC;MS1;V2018_2;8.2.11_2021jun11-1;5;128;5
+100;2021-06-27 10:24;S02.Sweden.VMS test.Bredsjö.Lilla;MS2;V2018_2;9.1_2021apr23;1;15;5
+140;2021-06-27 12:54;S02.Sweden.VMS test.Bredsjö.Lilla;MS2;V2018_2;9.1_2021apr23;1;15;5
+145;2021-06-27 13:54;S02.Sweden.VMS test.Bredsjö.Lilla;MS2;V2018_2;9.1_2021apr23;9;6;5
+198;2021-06-27 17:47;S02.Sweden.VMS test.Bredsjö.Lilla;MS2;V2018_2;9.1_2021apr23;1;15;5
+216;2021-06-27 19:37;S02.Sweden.VMS test.Bredsjö.Lilla;MS2;V2018_2;9.1_2021apr23;1;15;5
+335;2021-06-28 09:12;S02.Sweden.VMS test.Bredsjö.Lilla;MS2;V2018_2;9.1_2021apr23;1;15;5
+3;2021-06-27 00:33;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+11;2021-06-27 02:09;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;2;204;5
+12;2021-06-27 02:24;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+15;2021-06-27 03:24;S02.Sweden.VMS test.Bredsjö.Stora;VMS Controller Stora;;;4;119;4
+24;2021-06-27 05:25;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+25;2021-06-27 05:28;S02.Sweden.VMS test.Bredsjö.Stora;Slingan;;;48;140;4
+28;2021-06-27 05:47;S02.Sweden.VMS test.Bredsjö.Stora;VMS Controller Stora;;;4;119;4
+48;2021-06-27 07:03;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+51;2021-06-27 07:10;S02.Sweden.VMS test.Bredsjö.Stora;VMS Controller Stora;;;4;119;4
+66;2021-06-27 08:26;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+67;2021-06-27 08:26;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+96;2021-06-27 10:02;S02.Sweden.VMS test.Bredsjö.Stora;MS6;V2018_2;9.4_2021may28;1;15;5
+103;2021-06-27 10:29;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+107;2021-06-27 10:36;S02.Sweden.VMS test.Bredsjö.Stora;MS5;V2018_2;9.4_2021may28;1;15;5
+111;2021-06-27 10:46;S02.Sweden.VMS test.Bredsjö.Stora;MS5;V2018_2;9.4_2021may28;1;15;5
+115;2021-06-27 11:01;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+117;2021-06-27 11:21;S02.Sweden.VMS test.Bredsjö.Stora;MS3;V2018_2;9.4_2021may28;1;15;5
+122;2021-06-27 11:27;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+124;2021-06-27 11:38;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+126;2021-06-27 11:47;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+130;2021-06-27 12:17;S02.Sweden.VMS test.Bredsjö.Stora;Diskmaskinen;;;48;114;4
+134;2021-06-27 12:26;S02.Sweden.VMS test.Bredsjö.Stora;Slingan;;;48;140;4
+137;2021-06-27 12:34;S02.Sweden.VMS test.Bredsjö.Stora;MS5;V2018_2;9.4_2021may28;1;15;5
+157;2021-06-27 14:28;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+168;2021-06-27 15:10;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+172;2021-06-27 15:18;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+174;2021-06-27 15:26;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+185;2021-06-27 16:16;S02.Sweden.VMS test.Bredsjö.Stora;VMS Controller Stora;;;4;119;4
+188;2021-06-27 16:25;S02.Sweden.VMS test.Bredsjö.Stora;VMS Controller Stora;;;4;119;4
+196;2021-06-27 17:29;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+215;2021-06-27 19:31;S02.Sweden.VMS test.Bredsjö.Stora;Slingan;;;48;140;4
+219;2021-06-27 20:30;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+239;2021-06-27 23:31;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+257;2021-06-28 02:32;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+258;2021-06-28 02:49;S02.Sweden.VMS test.Bredsjö.Stora;MS6;V2018_2;9.4_2021may28;9;11;4
+265;2021-06-28 05:27;S02.Sweden.VMS test.Bredsjö.Stora;Slingan;;;48;140;4
+266;2021-06-28 05:33;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+313;2021-06-28 08:13;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;2;402;5
+314;2021-06-28 08:14;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+325;2021-06-28 08:34;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;13;250;4
+327;2021-06-28 08:46;S02.Sweden.VMS test.Bredsjö.Stora;MS6;V2018_2;9.4_2021may28;1;15;5
+328;2021-06-28 08:48;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+336;2021-06-28 09:16;S02.Sweden.VMS test.Bredsjö.Stora;MS6;V2018_2;9.4_2021may28;1;15;5
+337;2021-06-28 09:21;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+347;2021-06-28 10:20;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+351;2021-06-28 10:32;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+354;2021-06-28 10:44;S02.Sweden.VMS test.Bredsjö.Stora;MS6;V2018_2;9.4_2021may28;1;15;5
+356;2021-06-28 10:54;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+360;2021-06-28 11:06;S02.Sweden.VMS test.Bredsjö.Stora;MS4;V2018_2;9.4_2021may28;1;15;5
+30;2021-06-27 05:49;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;9;6;5
+35;2021-06-27 06:17;S02.Sweden.VMS test.Högalid.VC;MS3;V2010;18.4_rc2;1;15;4
+36;2021-06-27 06:18;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+37;2021-06-27 06:27;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+38;2021-06-27 06:28;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;1;15;4
+39;2021-06-27 06:31;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+40;2021-06-27 06:35;S02.Sweden.VMS test.Högalid.VC;MS3;V2010;18.4_rc2;1;15;4
+42;2021-06-27 06:43;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+43;2021-06-27 06:45;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;1;15;4
+45;2021-06-27 06:52;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+70;2021-06-27 08:36;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+76;2021-06-27 08:59;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+80;2021-06-27 09:12;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+106;2021-06-27 10:34;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+119;2021-06-27 11:24;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+127;2021-06-27 11:48;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;1;15;4
+135;2021-06-27 12:31;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;1;15;4
+136;2021-06-27 12:33;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+138;2021-06-27 12:36;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+139;2021-06-27 12:50;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+150;2021-06-27 14:09;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+165;2021-06-27 15:02;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+170;2021-06-27 15:16;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+173;2021-06-27 15:24;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+178;2021-06-27 16:04;S02.Sweden.VMS test.Högalid.VC;MS3;V2010;18.4_rc2;1;15;4
+179;2021-06-27 16:06;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+181;2021-06-27 16:08;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+182;2021-06-27 16:09;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;1;15;4
+184;2021-06-27 16:12;S02.Sweden.VMS test.Högalid.VC;MS3;V2010;18.4_rc2;1;15;4
+186;2021-06-27 16:20;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+203;2021-06-27 18:07;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;5;200;4
+217;2021-06-27 19:48;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+218;2021-06-27 20:05;S02.Sweden.VMS test.Högalid.VC;MS3;V2010;18.4_rc2;5;128;4
+235;2021-06-27 22:47;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+245;2021-06-28 00:35;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;1;115;4
+262;2021-06-28 05:19;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;9;6;5
+282;2021-06-28 06:25;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+283;2021-06-28 06:25;S02.Sweden.VMS test.Högalid.VC;MS3;V2010;18.4_rc2;1;15;4
+284;2021-06-28 06:30;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+285;2021-06-28 06:33;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+286;2021-06-28 06:34;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;1;15;4
+293;2021-06-28 06:58;S02.Sweden.VMS test.Högalid.VC;MS1;V2010;18.4_rc2;1;15;4
+300;2021-06-28 07:18;S02.Sweden.VMS test.Högalid.VC;MS3;V2010;18.4_rc2;1;15;4
+317;2021-06-28 08:18;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+323;2021-06-28 08:27;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+330;2021-06-28 08:51;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+332;2021-06-28 08:59;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;15;4
+334;2021-06-28 09:02;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+339;2021-06-28 09:27;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+349;2021-06-28 10:23;S02.Sweden.VMS test.Högalid.VC;MS2;V2010;18.4_rc2;1;15;4
+350;2021-06-28 10:26;S02.Sweden.VMS test.Högalid.VC;AMSSC;;;4;119;4
+361;2021-06-28 11:12;S02.Sweden.VMS test.Högalid.VC;MS4;V2010;18.4_rc2;1;115;4
+142;2021-06-27 13:43;S02.Sweden.VMS test.Hamra.AsterixVC;Grind in till Hamra 6 9 8;;;4;125;4
+143;2021-06-27 13:43;S02.Sweden.VMS test.Hamra.AsterixVC;Grind in till Hamra 6 9 8;;;4;125;4
+210;2021-06-27 18:54;S02.Sweden.VMS test.Hamra.AsterixVC;DeLaval Milk Tank 3;;;12;34;4
+211;2021-06-27 18:54;S02.Sweden.VMS test.Hamra.AsterixVC;DeLaval Milk Tank 3;;;12;34;4
+212;2021-06-27 18:54;S02.Sweden.VMS test.Hamra.AsterixVC;DeLaval Milk Tank 3;;;12;34;4
+260;2021-06-28 05:05;S02.Sweden.VMS test.Hamra.AsterixVC;Hamra 9 MS;V2018_2;9.4_2021jun18;15;403;5
+275;2021-06-28 05:44;S02.Sweden.VMS test.Hamra.AsterixVC;Hamra 9 MS;V2018_2;9.4_2021jun18;9;16;5
+276;2021-06-28 05:47;S02.Sweden.VMS test.Hamra.AsterixVC;Hamra 6 MS;V2010;18.5_rc1;2;207;4
+278;2021-06-28 06:07;S02.Sweden.VMS test.Hamra.AsterixVC;Grind in till Hamra 6 9 8;;;4;125;4
+291;2021-06-28 06:57;S02.Sweden.VMS test.Hamra.AsterixVC;Hamra 8 MS;V2018_2;9.4_2021jun16;2;403;5
+302;2021-06-28 07:30;S02.Sweden.VMS test.Hamra.AsterixVC;Grind in till Hamra 6 9 8;;;4;125;4
+338;2021-06-28 09:25;S02.Sweden.VMS test.Hamra.AsterixVC;Hamra 9 MS;V2018_2;9.4_2021jun18;1;15;4
+340;2021-06-28 09:35;S02.Sweden.VMS test.Hamra.AsterixVC;Hamra 9 MS;V2018_2;9.4_2021jun18;9;16;5
+344;2021-06-28 09:53;S02.Sweden.VMS test.Hamra.AsterixVC;Hamra 9 MS;V2018_2;9.4_2021jun18;9;16;5
+31;2021-06-27 06:06;S02.Sweden.VMS test.Harpsund.vc;Vms 3;V2018_2;8.2.11_2021jun11-1;15;426;4
+95;2021-06-27 10:02;S02.Sweden.VMS test.Harpsund.vc;Vms 2;V2010;18.5_rc1;1;15;5
+112;2021-06-27 10:48;S02.Sweden.VMS test.Harpsund.vc;Vms 1;V2010;18.5_rc1;1;15;5
+113;2021-06-27 10:54;S02.Sweden.VMS test.Harpsund.vc;Vms 3;V2018_2;8.2.11_2021jun11-1;1;15;5
+221;2021-06-27 20:45;S02.Sweden.VMS test.Harpsund.vc;Vms 3;V2018_2;8.2.11_2021jun11-1;15;425;4
+352;2021-06-28 10:39;S02.Sweden.VMS test.Harpsund.vc;Vms 1;V2010;18.5_rc1;1;15;5
+357;2021-06-28 10:58;S02.Sweden.VMS test.Harpsund.vc;Vms 1;V2010;18.5_rc1;1;15;5
+358;2021-06-28 11:03;S02.Sweden.VMS test.Harpsund.vc;Vms 1;V2010;18.5_rc1;1;15;5
+5;2021-06-27 01:13;S02.Sweden.VMS test.Hjälmaröd.VC;VMS Controller;;;4;120;4
+10;2021-06-27 02:04;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-1;V2007;18.4_rc1;9;15;4
+29;2021-06-27 05:48;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-3;V2007;18.4_rc1;9;18;4
+58;2021-06-27 08:00;S02.Sweden.VMS test.Hjälmaröd.VC;VMS Controller;;;4;120;4
+61;2021-06-27 08:13;S02.Sweden.VMS test.Hjälmaröd.VC;VMS Controller;;;4;120;4
+75;2021-06-27 08:57;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-2;V2007;18.4_rc2;1;15;4
+78;2021-06-27 09:08;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-1;V2007;18.4_rc1;1;15;4
+84;2021-06-27 09:25;S02.Sweden.VMS test.Hjälmaröd.VC;VMS Controller;;;4;120;4
+156;2021-06-27 14:27;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-3;V2007;18.4_rc1;9;18;4
+180;2021-06-27 16:07;S02.Sweden.VMS test.Hjälmaröd.VC;VMS Controller;;;4;120;4
+183;2021-06-27 16:11;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-3;V2007;18.4_rc1;2;137;5
+233;2021-06-27 22:11;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-1;V2007;18.4_rc1;9;11;4
+274;2021-06-28 05:39;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-1;V2007;18.4_rc1;9;18;4
+288;2021-06-28 06:43;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-3;V2007;18.4_rc1;9;6;5
+295;2021-06-28 07:04;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-2;V2007;18.4_rc2;1;115;4
+306;2021-06-28 07:35;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-1;V2007;18.4_rc1;1;15;4
+307;2021-06-28 07:36;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-2;V2007;18.4_rc2;1;15;4
+318;2021-06-28 08:20;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-3;V2007;18.4_rc1;1;15;4
+326;2021-06-28 08:39;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-3;V2007;18.4_rc1;1;15;4
+342;2021-06-28 09:40;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-3;V2007;18.4_rc1;9;6;5
+345;2021-06-28 10:04;S02.Sweden.VMS test.Hjälmaröd.VC;VMS-3;V2007;18.4_rc1;1;15;4
+197;2021-06-27 17:41;S02.Sweden.VMS test.Isby.VC;MS3;V2018_2;9.4_2021may28;15;417;4
+199;2021-06-27 17:49;S02.Sweden.VMS test.Isby.VC;MS3;V2018_2;9.4_2021may28;15;507;4
+261;2021-06-28 05:14;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;3;100;4
+267;2021-06-28 05:33;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;3;100;4
+268;2021-06-28 05:34;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;3;100;4
+269;2021-06-28 05:34;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;3;100;4
+270;2021-06-28 05:34;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;3;100;4
+271;2021-06-28 05:35;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;3;100;4
+272;2021-06-28 05:37;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;1;315;4
+277;2021-06-28 05:49;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;3;100;4
+287;2021-06-28 06:38;S02.Sweden.VMS test.Isby.VC;MS2;V2018_2;9.4_2021may28;2;422;4
+294;2021-06-28 06:58;S02.Sweden.VMS test.Isby.VC;Jonas Grind;;;4;125;5
+1;2021-06-27 00:32;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;4;105;4
+2;2021-06-27 00:32;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;4;1;4
+6;2021-06-27 01:36;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;105;4
+7;2021-06-27 01:37;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;1;4
+32;2021-06-27 06:07;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;425;4
+34;2021-06-27 06:08;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;425;4
+49;2021-06-27 07:05;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;1;15;4
+50;2021-06-27 07:05;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;1;15;4
+52;2021-06-27 07:24;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;1;15;4
+56;2021-06-27 07:52;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;1;15;4
+91;2021-06-27 09:47;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;105;4
+93;2021-06-27 09:57;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;105;4
+97;2021-06-27 10:07;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;105;4
+99;2021-06-27 10:17;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;105;4
+102;2021-06-27 10:27;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;105;4
+108;2021-06-27 10:37;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;105;4
+109;2021-06-27 10:43;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;1;4
+146;2021-06-27 14:03;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;105;4
+147;2021-06-27 14:04;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;425;4
+149;2021-06-27 14:06;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;4;1;4
+152;2021-06-27 14:11;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;498;4
+177;2021-06-27 16:02;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;2;207;4
+190;2021-06-27 16:47;S02.Sweden.VMS test.Jonjons.VC;MS3;V2018;9.4_2021may28;1;15;4
+200;2021-06-27 17:50;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;1;15;4
+201;2021-06-27 18:05;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;1;15;4
+206;2021-06-27 18:27;S02.Sweden.VMS test.Jonjons.VC;MS3;V2018;9.4_2021may28;1;15;4
+208;2021-06-27 18:39;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;1;15;4
+209;2021-06-27 18:53;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;1;15;4
+213;2021-06-27 19:00;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;1;15;4
+214;2021-06-27 19:30;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;1;15;4
+220;2021-06-27 20:44;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;4;105;4
+222;2021-06-27 20:45;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;4;1;4
+230;2021-06-27 22:01;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;425;4
+231;2021-06-27 22:04;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;425;4
+232;2021-06-27 22:11;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;498;4
+279;2021-06-28 06:10;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;425;4
+280;2021-06-28 06:17;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;15;498;4
+290;2021-06-28 06:56;S02.Sweden.VMS test.Jonjons.VC;MS3;V2018;9.4_2021may28;1;15;4
+297;2021-06-28 07:05;S02.Sweden.VMS test.Jonjons.VC;Martin;V2007;18.5_rc1;1;15;4
+298;2021-06-28 07:06;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;1;15;4
+303;2021-06-28 07:31;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;1;15;4
+308;2021-06-28 07:44;S02.Sweden.VMS test.Jonjons.VC;Separationsgrind Maja;;;4;126;5
+309;2021-06-28 07:50;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;1;15;4
+310;2021-06-28 07:50;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;1;15;4
+312;2021-06-28 08:10;S02.Sweden.VMS test.Jonjons.VC;MS4;V2018;9.4_2021may28;1;15;4
+315;2021-06-28 08:15;S02.Sweden.VMS test.Jonjons.VC;Maja;V2007;18.5_rc1;1;15;4
+26;2021-06-27 05:39;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;15;414;4
+57;2021-06-27 07:55;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;1;15;5
+60;2021-06-27 08:13;S02.Sweden.VMS test.Lövänget.VC;Robot 2;V2007;18.5_rc1;1;15;5
+110;2021-06-27 10:44;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;1;15;5
+128;2021-06-27 12:02;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;1;15;5
+132;2021-06-27 12:21;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;15;414;4
+141;2021-06-27 13:28;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;1;15;5
+204;2021-06-27 18:09;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;4;105;4
+205;2021-06-27 18:11;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;4;1;4
+234;2021-06-27 22:33;S02.Sweden.VMS test.Lövänget.VC;Robot 1;V2007;18.5_rc1;5;202;5
+237;2021-06-27 23:09;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;15;414;4
+273;2021-06-28 05:39;S02.Sweden.VMS test.Lövänget.VC;Robot 3;V2018_2;9.1_2021may06;15;414;4
+16;2021-06-27 03:38;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+17;2021-06-27 03:45;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;1;4
+241;2021-06-28 00:10;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+242;2021-06-28 00:18;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+243;2021-06-28 00:20;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;1;4
+247;2021-06-28 01:20;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+249;2021-06-28 01:28;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+250;2021-06-28 01:36;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+251;2021-06-28 01:44;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+253;2021-06-28 01:52;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+255;2021-06-28 01:59;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;1;4
+289;2021-06-28 06:56;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;105;4
+292;2021-06-28 06:57;S02.Sweden.VMS test.PerJans.VC;Vms 1;V2007;18.4_rc2;4;1;4
+54;2021-06-27 07:40;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;15;5
+59;2021-06-27 08:06;S02.Sweden.VMS test.Sippersta.VC;MS1;V2018_2;8.2.3_2019nov8-1;1;15;5
+72;2021-06-27 08:38;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;15;5
+86;2021-06-27 09:33;S02.Sweden.VMS test.Sippersta.VC;AMSSC;;;4;119;4
+87;2021-06-27 09:33;S02.Sweden.VMS test.Sippersta.VC;AMSSC;;;4;119;4
+88;2021-06-27 09:37;S02.Sweden.VMS test.Sippersta.VC;MS1;V2018_2;8.2.3_2019nov8-1;1;15;5
+104;2021-06-27 10:33;S02.Sweden.VMS test.Sippersta.VC;MS1;V2018_2;8.2.3_2019nov8-1;5;221;4
+105;2021-06-27 10:33;S02.Sweden.VMS test.Sippersta.VC;MS1;V2018_2;8.2.3_2019nov8-1;5;102;5
+131;2021-06-27 12:17;S02.Sweden.VMS test.Sippersta.VC;MS1;V2018_2;8.2.3_2019nov8-1;1;15;5
+158;2021-06-27 14:31;S02.Sweden.VMS test.Sippersta.VC;MS1;V2018_2;8.2.3_2019nov8-1;1;15;5
+176;2021-06-27 15:54;S02.Sweden.VMS test.Sippersta.VC;MS1;V2018_2;8.2.3_2019nov8-1;1;15;5
+191;2021-06-27 16:59;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;15;5
+223;2021-06-27 20:55;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;115;4
+225;2021-06-27 21:11;S02.Sweden.VMS test.Sippersta.VC;AMSSC;;;4;119;4
+228;2021-06-27 21:40;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;115;4
+229;2021-06-27 21:51;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;115;5
+244;2021-06-28 00:27;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;5;123;4
+281;2021-06-28 06:24;S02.Sweden.VMS test.Sippersta.VC;MS1;V2018_2;8.2.3_2019nov8-1;5;124;4
+305;2021-06-28 07:33;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;15;5
+311;2021-06-28 08:03;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;15;5
+316;2021-06-28 08:15;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;15;5
+341;2021-06-28 09:36;S02.Sweden.VMS test.Sippersta.VC;AMSSC;;;4;119;4
+343;2021-06-28 09:53;S02.Sweden.VMS test.Sippersta.VC;MS2;V2007;18.4_rc1;1;15;5
+348;2021-06-28 10:21;S02.Sweden.VMS test.Sippersta.VC;Betes grind;;;4;118;4
+4;2021-06-27 00:56;S02.Sweden.VMS test.SkogsLantbruk.VC;VMS 1;V2010;18.2.rc16;2;115;5
+14;2021-06-27 02:56;S02.Sweden.VMS test.SkogsLantbruk.VC;VMS 1;V2010;18.2.rc16;2;115;5
+18;2021-06-27 04:17;S02.Sweden.VMS test.SkogsLantbruk.VC;VMS 1;V2010;18.2.rc16;2;115;5
+19;2021-06-27 04:36;S02.Sweden.VMS test.SkogsLantbruk.VC;VMS 1;V2010;18.2.rc16;2;115;5
+21;2021-06-27 05:16;S02.Sweden.VMS test.SkogsLantbruk.VC;VMS 1;V2010;18.2.rc16;2;115;5
+13;2021-06-27 02:55;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;115;4
+20;2021-06-27 04:58;S02.Sweden.VMS test.Torp.vmscontroler;Smartgate nr 1 Avd 1-2;;;4;129;4
+27;2021-06-27 05:42;S02.Sweden.VMS test.Torp.vmscontroler;Smartgate nr 2 Avd 1-2;;;4;129;4
+41;2021-06-27 06:40;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+44;2021-06-27 06:51;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+46;2021-06-27 06:59;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+47;2021-06-27 07:01;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+53;2021-06-27 07:29;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+55;2021-06-27 07:41;S02.Sweden.VMS test.Torp.vmscontroler;MS5;V2018_2;8.2.9_2021jan26-1;1;15;5
+62;2021-06-27 08:18;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+64;2021-06-27 08:24;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+69;2021-06-27 08:36;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+71;2021-06-27 08:37;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+73;2021-06-27 08:45;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+74;2021-06-27 08:54;S02.Sweden.VMS test.Torp.vmscontroler;MS5;V2018_2;8.2.9_2021jan26-1;1;15;5
+77;2021-06-27 08:59;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+82;2021-06-27 09:20;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+85;2021-06-27 09:31;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+90;2021-06-27 09:43;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+92;2021-06-27 09:56;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+94;2021-06-27 09:59;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+98;2021-06-27 10:07;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+101;2021-06-27 10:26;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;200;5
+114;2021-06-27 11:00;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+116;2021-06-27 11:08;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+121;2021-06-27 11:26;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+125;2021-06-27 11:47;S02.Sweden.VMS test.Torp.vmscontroler;MS1;V2007;18.4_rc2;1;15;5
+129;2021-06-27 12:10;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+133;2021-06-27 12:25;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+144;2021-06-27 13:52;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+148;2021-06-27 14:05;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+154;2021-06-27 14:14;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+155;2021-06-27 14:21;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+159;2021-06-27 14:38;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+160;2021-06-27 14:39;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+161;2021-06-27 14:46;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+163;2021-06-27 14:55;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+164;2021-06-27 14:59;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+166;2021-06-27 15:02;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+167;2021-06-27 15:07;S02.Sweden.VMS test.Torp.vmscontroler;MS5;V2018_2;8.2.9_2021jan26-1;1;15;5
+171;2021-06-27 15:17;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+175;2021-06-27 15:47;S02.Sweden.VMS test.Torp.vmscontroler;Smartgate nr 1 Avd 3-4;;;4;118;4
+187;2021-06-27 16:22;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;200;5
+189;2021-06-27 16:32;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+193;2021-06-27 17:09;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+194;2021-06-27 17:12;S02.Sweden.VMS test.Torp.vmscontroler;Smartgate nr 2 Avd 1-2;;;4;129;4
+207;2021-06-27 18:27;S02.Sweden.VMS test.Torp.vmscontroler;MS1;V2007;18.4_rc2;1;15;5
+224;2021-06-27 21:00;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+236;2021-06-27 22:48;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+238;2021-06-27 23:13;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;5;123;4
+248;2021-06-28 01:25;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;200;5
+252;2021-06-28 01:48;S02.Sweden.VMS test.Torp.vmscontroler;MS5;V2018_2;8.2.9_2021jan26-1;2;405;4
+254;2021-06-28 01:59;S02.Sweden.VMS test.Torp.vmscontroler;MS5;V2018_2;8.2.9_2021jan26-1;2;405;4
+256;2021-06-28 02:01;S02.Sweden.VMS test.Torp.vmscontroler;MS5;V2018_2;8.2.9_2021jan26-1;1;315;4
+296;2021-06-28 07:05;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+299;2021-06-28 07:13;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+301;2021-06-28 07:25;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+304;2021-06-28 07:31;S02.Sweden.VMS test.Torp.vmscontroler;MS2;V2007;18.4_rc2;1;15;5
+319;2021-06-28 08:21;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+324;2021-06-28 08:30;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+329;2021-06-28 08:50;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+331;2021-06-28 08:56;S02.Sweden.VMS test.Torp.vmscontroler;MS5;V2018_2;8.2.9_2021jan26-1;1;15;5
+333;2021-06-28 08:59;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+346;2021-06-28 10:10;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
+359;2021-06-28 11:06;S02.Sweden.VMS test.Torp.vmscontroler;MS3;V2007;18.4_rc2;1;15;5
